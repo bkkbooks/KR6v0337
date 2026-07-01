@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0337/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0337/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 安慧三十唯識釋略抄
+  identifiers:
+    krp: KR6v0337
+    cbeta: B09n0038
+    cbeta_old_id: B09n0038
+    authorityid: CA0006122
+    json_key: B0038
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0038.xml
+    old_id: B09n0038
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0337_000-B.yaml, hash: 'sha256:351a04057bcc38842b99c76488e9bdb13603742f8776106f127d53a648c0069d'}
+  - {seq: 1, filename: KR6v0337_001-B.yaml, hash: 'sha256:d457398eaf95d3ed02e9a502ae8ff2083ce6aa2fa99e3f7be692c5a007055fec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0337_000-B.markers.yaml, hash: 'sha256:9bfd042b25bfbdefd381ac1d26bc0be72e9f7ffd332a64db1871a10a26e6ade0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0337_001-B.markers.yaml, hash: 'sha256:cc47fa2e6d1ba7f4a03401b5a66badf3985c2be23c9a82b50d87dc92f8ee02f3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0337_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 9348
+  label: 安慧三十唯識釋略抄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0337_B_001-mulu-1
+    span:
+    - body
+    - 2
+    - 2
+  label: 引言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0337_B_001-mulu-2
+    span:
+    - body
+    - 2383
+    - 2383
+  label: 三十唯識釋
+  type: mulu
+  level: 1
+hash: sha256:b4e007d8a3e777b366ceb0778b2130b3d1c9860c990221453be9b1ca499e41da

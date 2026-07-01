@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0337/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 安慧三十唯識釋略抄
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0038.xml
+    old_id: B09n0038
+hash: sha256:351a04057bcc38842b99c76488e9bdb13603742f8776106f127d53a648c0069d

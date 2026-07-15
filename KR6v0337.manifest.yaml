@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0337/v1
 canonical_location: https://kanripo.org/bkk/KR6v0337/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 安慧三十唯識釋略抄
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0337_000.yaml, hash: 'sha256:351a04057bcc38842b99c76488e9bdb13603742f8776106f127d53a648c0069d'}
-  - {seq: 1, filename: KR6v0337_001.yaml, hash: 'sha256:d457398eaf95d3ed02e9a502ae8ff2083ce6aa2fa99e3f7be692c5a007055fec'}
+  - {seq: 1, filename: KR6v0337_001.yaml, hash: 'sha256:a1fb189ccd03b4612f8bd2adc8cb4d2eeca65ad12796fb3c32e75cdbad8768b0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0337_000.markers.yaml, hash: 'sha256:7dd300dbb8da226198dbadac57c3c65948f554b1308a7cf1f53e39723e0f86ee'}
-  - {seq: 1, role: markers, filename: assets/KR6v0337_001.markers.yaml, hash: 'sha256:54f355f4bcb3f247d4f744e890d02fd7f2baa2f4fcfce0675d2b462784a949b5'}
+  - {seq: 1, role: markers, filename: assets/KR6v0337_001.markers.yaml, hash: 'sha256:e37b9c43baa0fa9e23eeb657e9e638efe52e9103694817f7b787aed7b177e014'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,4 +54,7 @@ table_of_contents:
   label: 三十唯識釋
   type: mulu
   level: 1
-hash: sha256:0103649292c38f3e4629f97aaa0563689fd3fc150a0be54ac9bfd23c6de7a13f
+hash: sha256:db5bf3919f766e44876586c1a65be53a7b408080b176a7b0a2920f399205540e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
